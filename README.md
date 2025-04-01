@@ -22,4 +22,4 @@ Configurar uma pipeline de Integração Contínua (CI) com GitHub Actions para u
 ## O que você vai aprender
 - Como configurar um workflow de CI no GitHub Actions
 - Como automatizar builds com Maven
-- Como verificar logs de execução de pipelines
+- Como verificar logs de execução de pipelines.
