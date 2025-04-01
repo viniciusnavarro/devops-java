@@ -19,5 +19,5 @@ jobs:
     - name: Executando o build
       run: mvn clean package
 
-    # - name: Executando os Testes
-    #   run: mvn test
+    - name: Executando os Testes
+      run: mvn test
